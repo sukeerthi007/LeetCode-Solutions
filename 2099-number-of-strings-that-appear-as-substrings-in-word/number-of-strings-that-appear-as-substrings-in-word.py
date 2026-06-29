@@ -4,5 +4,5 @@ class Solution:
         for i in patterns :
             if i in word :
                 count += 1 
-                print("Found!")
+                #print("Found!")
         return count 
